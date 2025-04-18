@@ -6,6 +6,13 @@
             "name": "Main",
             "request": "launch",
             "mainClass": "main.java.edu.Main",
+            "projectName": "recursive-ttt-NeelBalani_2c9c288d"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "main.java.edu.Main",
             "projectName": "recursive-ttt-NeelBalani_7c9a83d9"
         },
         {
